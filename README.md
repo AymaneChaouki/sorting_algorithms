@@ -89,4 +89,4 @@ What you should learn from this project:
 ---
 
 ## Authors
-* ** AYMANE CHAOUKI & Juan Pablo Yepes**
+* ** AYMANE CHAOUKI 
